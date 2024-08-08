@@ -1,0 +1,21 @@
+{
+    "name": "Chartboost.Mediation.InMobi",
+    "rootNamespace": "Chartboost.Mediation.InMobi",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Utilities",
+        "Chartboost.Mediation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

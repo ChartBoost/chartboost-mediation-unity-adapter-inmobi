@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies>
+    <androidPackages>
+        <!-- Android Adapter -->
+        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-inmobi:5.10.7.+"/>
+    </androidPackages>
+    <iosPods>
+        <!-- iOS Adapter -->
+        <iosPod name="ChartboostMediationAdapterInMobi" version="~> 5.10.7.0"/>
+
+        <!-- Partner iOS SDK-->
+        <iosPod name="InMobiSDK" version="~> 10.7.0" addToAllTargets="true"/>
+    </iosPods>
+</dependencies>
