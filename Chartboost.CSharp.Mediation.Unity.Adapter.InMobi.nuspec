@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Chartboost.CSharp.Mediation.Unity.Adapter.InMobi</id>
-    <version>5.0.2</version>
+    <version>5.1.0</version>
     <title>Chartboost Mediation Adapter - InMobi</title>
     <description>The Chartboost Mediation Unity SDK Adapter for InMobi.</description>
     <authors>Chartboost</authors>
