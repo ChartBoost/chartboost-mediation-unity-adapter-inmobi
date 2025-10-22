@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.1.0 *(2025-10-09)*
+This version of the InMobi Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-inmobi:5.10.8.+`
+  * iOS: `ChartboostMediationAdapterInMobi: ~> 5.11.0.0`
+
 ### Version 5.0.2 *(2025-02-18)*
 This version of the InMobi Adapter supports the following native SDK dependencies:
   * Android: `com.chartboost:chartboost-mediation-adapter-inmobi:5.10.8.+`
