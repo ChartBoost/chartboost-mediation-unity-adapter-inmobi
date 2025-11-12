@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.inmobi",
-    "version": "5.2.0",
+    "version": "5.2.1",
     "displayName": "Chartboost Mediation Adapter - InMobi",
     "description": "The Chartboost Mediation Unity SDK Adapter for InMobi.",
     "unity": "2022.3",
