@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - InMobi Adapter to your proj
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.inmobi": "5.2.4",
+    "com.chartboost.mediation.unity.adapter.inmobi": "5.2.5",
     ...
 },
 "scopedRegistries": [
