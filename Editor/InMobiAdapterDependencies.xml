@@ -2,7 +2,7 @@
 <dependencies>
     <androidPackages>
         <!-- Android Adapter -->
-        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-inmobi:5.11.3.+"/>
+        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-inmobi:5.11.4.+"/>
     </androidPackages>
     <iosPods>
         <!-- iOS Adapter -->
