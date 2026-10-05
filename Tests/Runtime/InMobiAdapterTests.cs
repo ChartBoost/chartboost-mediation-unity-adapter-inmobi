@@ -1,16 +1,11 @@
-using Chartboost.Logging;
 using Chartboost.Mediation.InMobi;
 using Chartboost.Tests.Runtime;
 using NUnit.Framework;
 
 namespace Chartboost.Tests
 {
-    internal class InMobiAdapterTests
+    internal class InMobiAdapterTests : DebugLogLevelFixture
     {
-        [SetUp]
-        public void SetUp()
-            => LogController.LoggingLevel = LogLevel.Debug;
-
         [Test]
         public void AdapterNativeVersion()
             => TestUtilities.TestStringGetter(() => InMobiAdapter.AdapterNativeVersion);
